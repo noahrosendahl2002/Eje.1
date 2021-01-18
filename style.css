@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1.exa{
+    position: relative;
+    text-align: center;
+    background-color: blueviolet;
+}
+h1.tit{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+p.enlace{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table{
+border: white ;
+}
